@@ -1,3 +1,4 @@
+## Answer
 ```
 public class NumberGenerator{
 
